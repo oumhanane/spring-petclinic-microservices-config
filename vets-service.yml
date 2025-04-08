@@ -17,7 +17,7 @@ eureka:
 spring:
   config:
     activate:
-      on-profile: docker
+      on-profile: default
 server:
   port: 8083
 eureka:
